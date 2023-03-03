@@ -1,4 +1,4 @@
-# 😫😫😫😫Student-Database
+# 🐾🐾🐾🐾Student-Database
 ### It consists of 4 files
 1. Display.java : It consists of functions which displays the details of individual student or entire students.
 2. Input.java : It takes information about the students and stores it into array list.
